@@ -5,3 +5,5 @@ const user = "sami";
 
 
 // just comment is added
+
+const post = 'this is amazing....'
